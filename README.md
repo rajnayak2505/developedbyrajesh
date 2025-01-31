@@ -1,2 +1,2 @@
 # developedbyrajesh
-https://developedbyrajesh.netlify.com/
+https://developedbyrajesh.netlify.app/
